@@ -76,8 +76,8 @@ i.fa {
 
 @media screen and (max-width: 480px) {
     #userPhoto {
-        width: 30%;
-        height: 60%;
+        width: 20%;
+        height: 40%;
     }
     body{
         background-repeat: no-repeat;
@@ -87,14 +87,14 @@ i.fa {
 }
 @media screen and (min-width: 481px) and (max-width: 800px) {
     #userPhoto {
-        margin-top: 20px;
-        width: 30%;
-        height: 60%;
+/*         margin-top: 20px; */
+        width: 20%;
+        height: 40%;
     }
 }
 @media screen and (min-width: 801px) and (max-width: 1200px) {
     #userPhoto {
-        width: 30%;
-        height: 60%;
+        width: 20%;
+        height: 40%;
     }
 }
